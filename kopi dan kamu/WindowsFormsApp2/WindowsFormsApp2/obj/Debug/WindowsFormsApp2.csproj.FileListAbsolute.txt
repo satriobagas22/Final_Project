@@ -1,0 +1,38 @@
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormKeranjang.resources
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Americano.jpg
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Caffe_Latte.jpg
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Katsu_Curry.jpg
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Matcha.jpg
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Mie_Goreng.jpg
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Mie_Rebus.jpg
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Nasi_Goreng.jpg
+E:\UTS Pemrograman\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Es_Teh.jpg
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Americano.jpg
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Caffe_Latte.jpg
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Es_Teh.jpg
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Katsu_Curry.jpg
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Matcha.jpg
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Mie_Goreng.jpg
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Mie_Rebus.jpg
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\images\Nasi_Goreng.jpg
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormKeranjang.resources
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Mikaa\Desktop\UTS Teknik Pemrograman 25\kopi dan kamu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
